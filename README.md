@@ -1,0 +1,2 @@
+# Build-APKs-with-Termux
+Android APK sample sources that build in Termux on Android. This repository is a submodule for buildAPKs.   Installation Of Git Package:  $ pkg install git  $ git clone https://github.com/sdrausty/buildAPKs  $ cd buildAPKs  To install it in its proper place, copy and paste the following into Termux.  $ pkg install git submodule init  $ pkg install git submodule update sources/samples  Hello friends! Download Termux most working and new commands app.👇 https://play.google.com/store/apps/details?id=com.termux.command.and.usage.af
